@@ -10,7 +10,7 @@ namespace TestAppForGit
         }
 
 
-        public void Hello()
+        public void Welcome()
         {
             Console.WriteLine("Provide your Welcome Message");
         }
