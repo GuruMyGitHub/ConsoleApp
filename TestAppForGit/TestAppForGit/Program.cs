@@ -9,8 +9,6 @@ namespace TestAppForGit
             Console.WriteLine("Welcome to the World of GIT");
         }
 
-
-
         public void NewFinalMethod()
         {
             Console.WriteLine("Provide your Welcome Message");
