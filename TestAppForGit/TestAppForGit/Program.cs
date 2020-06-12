@@ -8,5 +8,10 @@ namespace TestAppForGit
         {
             Console.WriteLine("Hello World");
         }
+
+        public void Welcome1()
+        {
+            Console.WriteLine("Provide your Welcome Message");
+        }
     }
 }
